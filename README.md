@@ -1,1 +1,1 @@
-# DataExplorationSQL
+# SQLDataExploration
